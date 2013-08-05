@@ -31,14 +31,29 @@ object GatherData {
       getClass.getResource("brit-a-z.txt")
     val file = new File(url.getFile)
     val string = FileUtils.readFileToString(file)
-    println(string.take(100))
+//    println(string.take(100))
     string.split("[ \r\n]").filter(_.size > 0).map(_.toLowerCase).toList
   }
 
-  def gatherSingleWhois(word: String, sleepSeconds: Int): String {
-    
+  def gatherSingleWhois(topLevelDomain: String, word: String, sleepSeconds: Int): String = {
+    def makeDomain(word: String): String =
+      word.dropRight(topLevelDomain.size) ++ "." ++ topLevelDomain
+
+    val domain = makeDomain(word)
+    println(s"Running whois on: $domain")
+    val whois = s"torsocks whois ${domain}" !!
+
+    println(whois)
+
+    if (whois.size <= 3) throw new DownloadFailedException
+
+    if (whois.toLowerCase.contains("exceeded")) throw new LookupQuotaExceededException
+
+    Thread.sleep(sleepSeconds * 1000)
+
+    whois
   }
-  
+
   def gatherWhois(topLevelDomain: String, dataRoot: File, sleepSeconds: Int) {
     val regex = (".*" ++ topLevelDomain ++ "$").r
 
@@ -49,198 +64,43 @@ object GatherData {
       word
     }
 
-
+    val domainRoot = new File(dataRoot, topLevelDomain)
+    if (!domainRoot.exists) {
+      domainRoot.mkdir
+    }
 
     for (word <- matches) {
-      val domainRoot = new File(dataRoot, topLevelDomain)
-
       val savePath = new File(domainRoot, word)
       if (!savePath.exists) {
-        if (!domainRoot.exists) {
-          domainRoot.mkdir
+        try {
+          val whois = gatherSingleWhois(topLevelDomain, word, sleepSeconds)
+          FileUtils.writeStringToFile(savePath, whois)
+        } catch {
+          case _: DownloadFailedException =>
+            println("download failed")
+            Thread.sleep(10 * 1000 * 60)
+            gatherWhois(topLevelDomain, dataRoot, sleepSeconds)
+          case _: LookupQuotaExceededException =>
+            println("lookup quota exceeded")
+            Thread.sleep(10 * 1000 * 60)
+            gatherWhois(topLevelDomain, dataRoot, sleepSeconds)
         }
-        
-        val domain = makeDomain(word)
-        val whois = s"torsocks whois ${domain}" !!
-        
-        println(whois)        
-        
-        if (whois.size <= 3) throw new DownloadFailedException
-          
-        if (whois.toLowerCase.contains("exceeded")) throw new LookupQuotaExceededException
-        
-        FileUtils.writeStringToFile(savePath, whois)
-        
-        Thread.sleep(sleepSeconds * 1000)
       }
     }
   }
 }
 
-object DomainNameSearch {  
+object DomainNameSearch {
   def main(unparsedArgs: Array[String]) {
     val args = new Conf(unparsedArgs)
     println(args.summary)
-    
+
     for (topLevelDomain <- args.topLevelDomains()) {
       println(s"Processing $topLevelDomain")
-      
+
       GatherData.gatherWhois(topLevelDomain, args.dataRoot(), args.sleepSeconds())
+      
+      println(s"Finished $topLevelDomain")
     }
   }
-
-//  var freeDomains =
-//    collection.mutable.Map[String, collection.immutable.TreeSet[String]]()
-//
-//  def findDomains(superDomain: String) {
-//
-//    //  val regex = """.*me$""".r
-//    //    val superDomain = "al"
-//    //    val proxy = new com.ning.http.client.ProxyServer("127.0.0.1", 9151)
-//
-//    val regex = (".*" ++ superDomain ++ "$").r
-//
-//    val matches = for (
-//      word <- words;
-//      if (regex.pattern.matcher(word).matches)
-//    ) yield {
-//      word
-//    }
-//
-//    def makeDomain(word: String): String =
-//      word.dropRight(superDomain.size) ++ "." ++ superDomain
-//
-//    def domainIsFree(domain: String): Boolean = {
-//      val whois = s"torsocks whois ${domain}" !!
-//
-//      println(whois)
-//
-//      assert(whois.size > 3, whois.size)
-//      assert(
-//        !whois.toLowerCase.contains("exceeded"),
-//        s"Lookup quota exceeded: ${domain}")
-//
-//      (!whois.toLowerCase.contains("registrant")) &&
-//        (!whois.toLowerCase.contains("incorrect")) &&
-//        (!whois.toLowerCase.contains("live")) &&
-//        (!whois.toLowerCase.contains("not available")) &&
-//        (!whois.toLowerCase.contains("suspended")) &&
-//        (!whois.toLowerCase.contains("expiration")) &&
-//        (!whois.toLowerCase.contains("banned")) &&
-//        (!whois.toLowerCase.contains("registrant")) &&
-//        (!whois.toLowerCase.contains("owner")) &&
-//        (!whois.toLowerCase.contains("reserved")) &&
-//        (!whois.toLowerCase.contains("active"))
-//
-//    }
-//
-//    for (word <- matches) {
-//      val domain = makeDomain(word)
-//
-//      val lastWord = ""
-//
-//      if (word >= lastWord) {
-//        val isFree = domainIsFree(domain)
-//        println(s"$domain is free: ${isFree}")
-//
-//        if (isFree) {
-//          val newSet =
-//            freeDomains.getOrElse(
-//              superDomain,
-//              collection.immutable.TreeSet[String]()) + domain
-//          freeDomains += superDomain -> newSet
-//          println(freeDomains)
-//        }
-//
-//        //        Thread.sleep(60000)
-//      }
-//    }
-//
-//    println(freeDomains)
-//    println(s"finished searching for $superDomain")
-//  }
-//
-//  val genericTLDs = IndexedSeq(
-//    //    "me",
-//    //    "info",
-//    //    "org",
-//    //    "com",
-//    //    "co",
-//    //    "name",
-//    "net")
-//
-//  val googleGenericCCTLDs = IndexedSeq(
-//    //    "ad",
-//    //    "as" 
-//    //    "bz",
-//    //    "cc",
-//    //    "cd",
-//    //    "co",
-//    //    "dj",
-//    //    "fm",
-//    //    "io"
-//    //    "la"
-//    "me" //    "ms",
-//    //    "nu",
-//    //    "sc",
-//    //    "sr",
-//    //    "su",
-//    //    "tv",
-//    //    "tk",
-//    //    "ws"
-//    )
-//
-//  val inList = IndexedSeq(
-//    "ac",
-//    "ae",
-//    "af",
-//    "ag",
-//    "ai",
-//    "al",
-//    "am",
-//    "ao",
-//    "ar",
-//    "as",
-//    "at",
-//    "ax",
-//    "az",
-//    "ba",
-//    "bb",
-//    "bd",
-//    "be",
-//    "bf",
-//    "bg",
-//    "bh",
-//    "bi",
-//    "bj",
-//    "bn",
-//    "bo",
-//    "bs",
-//    "bt",
-//    "bw",
-//    "by",
-//    "bz",
-//    "cc",
-//    "cd",
-//    "cf",
-//    "cg",
-//    "ch",
-//    "ci",
-//    "ck",
-//    "cl",
-//    "cr",
-//    "cu",
-//    "cv",
-//    "cx",
-//    "cy",
-//    "cz")
-//
-//  val inString = "dj dk dm do dz ec ee eg eh es et fj fk fm fo ga gd gf gg gh gi gl gm gq gr gs gt gu gw gy hm hn hr ht id " +
-//    "il im io iq ir is je jm jo ke kg kh ki km kn kp kr kw kz la lc li lk lr ls lt lu lv ly ma md me mg mh ml mm mn"
-//
-//  val domainsToCheck = googleGenericCCTLDs
-//  //genericTLDs ++ googleGenericCCTLDs 
-//  //    inList ++ inString.split(" ")
-//
-//  domainsToCheck foreach (findDomains)
 }
