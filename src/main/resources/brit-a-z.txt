@@ -56054,7 +56054,7 @@ precipitator
 precipitin
 precipitous
 precipitously
-précis
+precis
 precise
 precisely
 preciseness
