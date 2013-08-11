@@ -82,7 +82,7 @@ object GatherData {
       domainRoot.mkdir
     }
 
-    for (word <- matches.par) {
+    for (word <- matches.filter(!badWords.contains(_))) {
       val savePath = new File(domainRoot, word)
       if (!savePath.exists) {
         try {
@@ -118,17 +118,55 @@ object GatherData {
 
     if (has("not registered") ||
       has("not found") ||
+      has("no entries found") ||
+      has("no data found") ||
+      has("domain status: available") ||
+      has("no match") ||
+      has("nothing found") ||
+      has("no records matching") ||
+      has("do not have an entry") ||
+      has("no contact information") ||
+      has("no such domain") ||
       has("is available")) Some(true)
     else if (has("registrant") ||
       has("expiry") ||
       has("domain reserved") ||
+      has("you aren't allowed") ||
+      has("owner contact") ||
+      has("domain holder") ||
+      has("is not supported") ||
+      has("invalid") ||
+      has("found 1 record") ||
+      has("found 2 record") ||
+      has("found 3 record") ||
+      has("found 4 record") ||
+      has("found 5 record") ||
+      has("found 6 record") ||
+      has("found 30 record") ||
+      has("found 94 record") ||
+      has("found 75 record") ||
+      has("found 247 record") ||
+      has("found 230 record") ||
+      has("syntax error") ||
+      has("fecha de registro") ||
+      has("solo acepta consultas con dominios .bo") ||
+      has("reg-excluded") ||
+      has("reg-reserved") ||
+      has("status: active") ||
+      has("holder of domain") ||
+      has("incorrect domain name") ||
       has("banned") ||
+      has("administrative contact") ||
+      has("expires") ||
+      has("created") ||
       has("not available")) Some(false)
     else None
   }
 
+  val badWords = "reformist"
+
   lazy val ccTLDs = {
-    val badTopLevelDomains = "ai al an ao aq ar au aw bm br bv ca cm cn cs dd de eh er eu fr gb ge gn hu ie it jp ky lb mo mk mo my no om pm re sa sk sm ss sz td tf tz ua va wf yt yu bb bi bs bt ci ck do es et gh gi gu hm hn id il kh lc lk ls".split(" ")
+    val badTopLevelDomains = "ai al an ao aq ar au aw bm br bv ca cm cn cs dd de eh er eu fr gb ge gn hu ie it jp ky lb mo mk mo my no om pm re sa sk sm ss sz td tf tz ua va wf yt yu bb bi bs bt ci ck do es et gh gi gu hm hn id il kh lc lk ls mm mp nc ne ng ni pa ph py sn so sy tc th ye za".split(" ")
 
     val url =
       getClass.getResource("ccTLDs.txt")
@@ -145,22 +183,24 @@ object DomainNameSearch {
     val args = new Conf(unparsedArgs)
     println(args.summary)
 
-    Try("killall tor" !)
-
-    Thread.sleep(1000)
-
-    future { "tor" ! }
-
-    Thread.sleep(7 * 1000)
-
-    println("restarted tor")
-
     val topLevelDomains = {
       val extraTopLevelDomains = if (args.ccTLDs()) {
         GatherData.ccTLDs
       } else Nil
 
       args.topLevelDomains() ++ extraTopLevelDomains
+    }
+
+    if (topLevelDomains.size > 0) {
+      Try("killall tor" !)
+
+      Thread.sleep(1000)
+
+      future { "tor" ! }
+
+      Thread.sleep(7 * 1000)
+
+      println("restarted tor")
     }
 
     for (topLevelDomain <- topLevelDomains) {
@@ -171,6 +211,12 @@ object DomainNameSearch {
       println(s"Finished $topLevelDomain")
     }
 
+    s"rm -rf ${args.dataRoot()}/true" !
+    
+    s"rm -rf ${args.dataRoot()}/maybe" !
+    
+    s"rm -rf ${args.dataRoot()}/false" !
+    
     for (
       domainRoot <- new File(args.dataRoot(), "rawWhois").listFiles;
       if domainRoot.isDirectory;
