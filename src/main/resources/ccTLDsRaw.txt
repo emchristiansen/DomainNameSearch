@@ -1,0 +1,441 @@
+| [[.ac]] || {{flag|Ascension Island}} || &nbsp; || Commonly used for academic websites, such as universities. However, .ac is not to be confused with the tightly-regulated, official academic domain [[.ac.uk]]. || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ad]] || {{flag|Andorra}} || &nbsp; || Local trademark, trade name or citizenship required <ref>{{cite web|title=Andorra Telecom trademark domain registration policy|url=http://www.nic.ad/angles/comamarca_e.htm}}</ref><ref>{{cite web|title=Andorra Telecom trade name registration policy|url=http://www.nic.ad/angles/nomcomercial_e.htm}}</ref> || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ae]] || {{flag|United Arab Emirates}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.af]] || {{flag|Afghanistan}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ag]] || {{flag|Antigua and Barbuda}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ai]] || {{flag|Anguilla}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.al]] || {{flag|Albania}} || &nbsp; || Citizenship ''no longer'' required || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.am]] || {{flag|Armenia}} || &nbsp; || (Also unofficially used by AM Radio Stations or related business) || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.an]] || {{flag|Netherlands Antilles}} ||  || Local presence required; [[Dissolution of the Netherlands Antilles|Netherlands Antilles were dissolved]] on October 10, 2010;  || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ao]] || {{flag|Angola}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || &nbsp;
+|- valign="top"
+| [[.aq]] || {{flag|Antarctica}} || ''Antarctique'' || Defined by the [[Antarctic Treaty System|Antarctic Treaty]] as everything south of [[60th parallel south|latitude 60°S]]. AQ domain names are available to government organizations who are signatories to the Antarctic Treaty and to other registrants who have a physical presence in Antarctica. || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ar]] || {{flag|Argentina}} || &nbsp; || &nbsp; || {{yes}}<ref group="a">(November 17, 2009) Spanish-Portuguese specific characters (á, â, ã, à, é, ê, í, ó, ô, õ, ú, ü, ñ, ç) allowed, [http://www.infoleg.gov.ar/infolegInternet/anexos/160000-164999/160861/norma.htm as approved by law]</ref>  || {{no}} || {{no}}
+|- valign="top"
+| [[.as]] || {{flag|American Samoa}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.at]] || {{flag|Austria}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.au]] || {{flag|Australia}} || &nbsp; || Includes [[Ashmore and Cartier Islands]] and [[Coral Sea Islands]]. [[Australian Business Number|ABN]] required. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.aw]] || {{flag|Aruba}} || ''Aruba, West Indies'' || Restricted to registered Aruban companies, organisations and citizens || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ax]] || {{flag|Åland}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.az]] || {{flag|Azerbaijan}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ba]] || {{flag|Bosnia and Herzegovina}} || || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bb]] || {{flag|Barbados}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bd]] || {{flag|Bangladesh}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.be]] || {{flag|Belgium}} || &nbsp; || (Also unofficially used in the canton of Berne, Switzerland) || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.bf]] || {{flag|Burkina Faso}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bg]] || {{flag|Bulgaria}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>in addition to ASCII, only Cyrillic letters from the Bulgarian language are accepted</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.bh]] || {{flag|Bahrain}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bi]] || {{flag|Burundi}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bj]] || {{flag|Benin}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bm]] || {{flag|Bermuda}} || &nbsp; || Local corporate registration required || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bn]] || {{flag|Brunei}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.bo]] || {{flag|Bolivia}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.br]] || {{flag|Brazil}} || &nbsp; || Restricted. Registration is done under several categories (i.e.: .com.br for businesses, .gov.br for government agencies, etc.)<ref>[http://registro.br/dominio/dpn.html Domínios .br] Registro.br</ref>  || {{yes}}<ref>(May 9, 2005) for Portuguese (Brazilian) names: see [http://registro.br/anuncios/20050504.html Anúncio 04/05/2005]</ref> || {{yes}} || {{no}}<ref group=a>Currently not allowed, but some higher-learning institutions were grandfathered in.</ref>
+|- valign="top"
+| [[.bs]] || {{flag|Bahamas}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bt]] || {{flag|Bhutan}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.bv]] || {{flag|Bouvet Island}} || &nbsp; || Not in use (Norwegian dependency; see [[.no]]). || {{no}} || {{no}} || {{no}}
+|- valign="top"
+| [[.bw]] || {{flag|Botswana}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.by]] || {{flag|Belarus}} || ''Byelorussia'' || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.bz]] || {{flag|Belize}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ca]] || {{flag|Canada}} || &nbsp; || Subject to Canadian Presence Requirements. || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.cc]] || {{flag|Cocos (Keeling) Islands}} || &nbsp; || (Australian territory: do not confuse with Cocos islands in Guam. Also used as a free domain service to the public as cc.cc, cu.cc or cz.cc domain.) || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.cd]] || {{flag|Democratic Republic of the Congo}} || &nbsp; || &nbsp; || &nbsp;  || {{no}} || {{yes}}
+|- valign="top"
+| [[.cf]] || {{flag|Central African Republic}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.cg]] || {{flag|Republic of the Congo}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ch]] || {{flag|Switzerland}} || ''Confoederatio Helvetica'' <small>(Latin)</small>|| &nbsp; || {{yes}}<ref group=a>Since March 2004, see [http://www.nic.ch/en/faq/idn.html details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ci]] || {{flag|Côte d'Ivoire}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ck]] || {{flag|Cook Islands}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.cl]] || {{flag|Chile}} || &nbsp; || &nbsp; || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.cm]] || {{flag|Cameroon}} || &nbsp; || A local entity/company in Cameroon is required to register a domain name. || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.cn]] || {{flag|People's Republic of China}} || &nbsp; || A local company in China is required to register a domain name. [[Hong Kong]] and [[Macau]] also maintain TLDs. || &nbsp; || {{partial}}<ref name="dnssec"/> || {{yes}}
+|- valign="top"
+| [[.co]] || {{flag|Colombia}} || &nbsp; || Marketed as a global domain - recognized as a gccTLD by Google. Anyone can register. || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.cr]] || {{flag|Costa Rica}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.cs]] || {{flag|Czechoslovakia}} || || Czecho-Slovakia domain has not been use since 1993. The ISO-code cs was later allocated for Serbia and Montenegro, which used .yu instead. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.cu]] || {{flag|Cuba}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.cv]] || {{flag|Cape Verde}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.cx]] || {{flag|Christmas Island}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.cy]] || {{flag|Cyprus}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.cz]] || {{flag|Czech Republic}} || &nbsp; || &nbsp; || {{no}}{{refn|group=a|IDN not adopted due to lack of public and corporate interest<ref>[http://www.nic.cz/page/451/idn---internationalized-domain-names/ IDN - Internationalized Domain Names] at nic.cz</ref>}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.dd]] || {{GDR}} || ''Deutsche Demokratische Republik'' || Was proposed, but never implemented due to German re-unification. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.de]] || {{flag|Germany}} || ''Deutschland'' || German postal address for administrative contact (admin-c) required. Proxy registrations are allowed. || {{yes}}<ref group=a>93 non-ASCII characters, see [http://www.denic.de/en/domains/internationalized-domain-names/idn-conversion.html details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.dj]] || {{flag|Djibouti}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.dk]] || {{flag|Denmark}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>(January 1, 2004), (æ, ø, å, ö, ä, ü, & é): see [http://æøå.dk-hostmaster.dk details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.dm]] || {{flag|Dominica}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.do]] || {{flag|Dominican Republic}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.dz]] || {{flag|Algeria}} || ''Dzayer'' || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ec]] || {{flag|Ecuador}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ee]] || {{flag|Estonia}} || ''Eesti'' || Anyone can register but local administrative contact is required. || {{yes}}<ref group=a>Estonian domain names to incorporate diacritics (IDN) Starting from June 13, 2011 [http://www.internet.ee/eng/news/estonian-domain-names-to-incorporate-diacritics-idn]</ref> || {{no}} || {{yes}}
+|- valign="top"
+| [[.eg]] || {{flag|Egypt}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.eh]] || {{flag|Western Sahara}} || &nbsp; || .eh is reserved for Western Sahara, but does not exist in the root. || &nbsp; || {{no}} || &nbsp;
+|- valign="top"
+| [[.er]] || {{flag|Eritrea}} || &nbstive - The domain registrar [[EriTel|Eritrea Telecommunication Services Corporation]] offers no services to register domains. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.es]] || {{flag|Spain}} || ''España'' || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.et]] || {{flag|Ethiopia}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.eu]] || {{flag|European Union}} || &nbsp; || Restricted to legal and natural persons in European Union member states. Unofficially used for [[Basque Country (autonomous community)|Basque]] websites (Euskadi in the basque language) || {{yes}}<ref group=a>Supported characters (latin, greek, cyrillic): see [http://www.eurid.eu/en/eu-domain-names/idns-eu/supported-unicode-characters details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.fi]] || {{flag|Finland}} || &nbsp; || Open for registration to individuals/companies around Europe. || {{yes}}<ref group=a>(September 2005) Supported characters (latin): see [http://www.ficora.fi/en/index/palvelut/palvelutaiheittain/fiverkkotunnukset/aakkostenkaytto.html details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.fj]] || {{flag|Fiji}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.fk]] || {{flag|Falkland Islands}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.fm]] || {{flag|Federated States of Micronesia}} || &nbsp; || (Also unofficially used by FM Radio Stations or related business) || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.fo]] || {{flag|Faroe Islands}} || ''Føroyar'' || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.fr]] || {{flag|France}} || &nbsp; || Restricted to individuals and companies in [[European Union]], Switzerland, Norway, Iceland and Liechtenstein.<ref group="a" name="afnic" /> || {{yes}}<ref group="a" name="afnic-idn">[http://www.afnic.fr/en/products-and-services/idns-3.html Availability of IDN on the .fr, .yt, .pm, .wf, .tf, and .re TLDs]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ga]] || {{flag|Gabon}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.gb]] || {{flag|United Kingdom}} || ''Great Britain'' || Deprecated.<ref name="Milton Mueller 2002 79">{{citation|url=http://books.google.ie/books?id=sMKmdJq7iE0C&lpg=PA79&dq=&pg=PA79#v=onepage&q&f=false|
+title=Ruling the Root: Internet Governance and the Taming of Cyberspace|author=Milton Mueller|page=79|publisher=MIT Press|location=Cambridge, Massachusetts|year=2002|isbn=9780262632980}}</ref> The primary ccTLD used for the [[United Kingdom]] is [[List of Internet top-level domains#uk|.uk]]. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.gd]] || {{flag|Grenada}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ge]] || {{flag|Georgia|Georgia (country)}} || &nbsp; || To register you must be either a citizen of Georgia, or a Georgian company. || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.gf]] || {{flag|French Guiana}} || ''Guyane française'' || || &nbsp; || {{no}} || &nbsp;
+|- valign="top"
+| [[.gg]] || {{flag|Guernsey}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.gh]] || {{flag|Ghana}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.gi]] || {{flag|Gibraltar}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.gl]] || {{flag|Greenland}} || &nbsp; || (Also unofficially used in Galicia, Spain) || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.gm]] || {{flag|The Gambia}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.gn]] || {{flag|Guinea}} || &nbsp; || A local contact is required || &nbsp; || {{yes}} || {{no}}
+|- valign="top"
+| [[.gp]] || {{flag|Guadeloupe}} || &nbsp; || Still used for Saint-Barthélemy and Saint-Martin || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.gq]] || {{flag|Equatorial Guinea}} || ''Guinea Ecuatorial'' || &nbsp; || &nbsp; || {{no}} || &nbsp;
+|- valign="top"
+| [[.gr]] || {{flag|Greece}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>Support for Greek characters since July 2005, see [https://grweb.ics.forth.gr/gr_char.jsp?lang=en details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.gs]] || {{flag|South Georgia and the South Sandwich Islands}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.gt]] || {{flag|Guatemala}} || &nbsp; || &nbsp; || {{yes}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.gu]] || {{flag|Guam}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.gw]] || {{flag|Guinea-Bissau}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.gy]] || {{flag|Guyana}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.hk]] || {{flag|Hong Kong}} || &nbsp; || [[Special Administrative Region of the People's Republic of China|Special administrative region]] of the [[People's Republic of China]]. || {{yes}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.hm]] || {{flag|Heard Island and McDonald Islands}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.hn]] || {{flag|Honduras}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.hr]] || {{flag|Croatia}} || ''Hrvatska'' || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ht]] || {{flag|Haiti}} || &nbsp; || &nbsp; || {{yes}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.hu]] || {{flag|Hungary}} || &nbsp; || Restricted to Hungarian companies, organisations and citizens ||  &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.id]] || {{flag|Indonesia}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.ie]] || {{flag|Ireland}} || &nbsp; || In 2002, registration was expanded to include persons or businesses with a "real and substantive" connection with the island of [[Ireland]] (including [[Northern Ireland]]).<ref>{{cite web|url=http://www.siliconrepublic.com/strategy/item/368-domain-chaos-spikes-e-busin|title=Domain chaos spikes e-business ambitions|publisher=Silicon Republic|date=17 December 2002|accessdate=30 December 2012}}</ref><ref>{{citation|title=Information Technology Law: Professional Practice Guide|publisher=Law Society of Ireland|location=Dublin|year=2004|page=23}}</ref>|| {{no}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.il]] || {{flag|Israel}} || &nbsp; || &nbsp; || {{yes}} || {{no}} || {{no}}
+|- valign="top"
+| [[.im]] || {{flag|Isle of Man}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.in]] || {{flag|India}} || &nbsp; || Under [[INRegistry]] since April 2005 (except: gov.in, nic.in, mil.in, ac.in, edu.in, res.in). || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.io]] || {{flag|British Indian Ocean Territory}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.iq]] || {{flag|Iraq}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ir]] || {{flag|Iran}} || &nbsp; || &nbsp; || {{yes}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.is]] || {{flag|Iceland}} || ''Ísland'' || &nbsp; || {{yes}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.it]] || {{flag|Italy}} || &nbsp; || Restricted to companies and individuals in the [[European Union]]. || {{yes}}<ref group=a>[http://www.nic.it/tutto-sul.it/news/ce-di-nuovo-che....], [http://www.nic.it/tutto-sul.it/news/idn-un-successo]</ref>  || {{no}} || {{yes}}
+|- valign="top"
+| [[.je]] || {{flag|Jersey}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.jm]] || {{flag|Jamaica}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.jo]] || {{flag|Jordan}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.jp]] || {{flag|Japan}} || &nbsp; || Restricted to individuals or companies with a physical address in Japan. || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ke]] || {{flag|Kenya}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.kg]] || {{flag|Kyrgyzstan}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.kh]] || {{flag|Cambodia}} || ''Khmer'', former ''Kâmpŭchea'' || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.ki]] || {{flag|Kiribati}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.km]] || {{flag|Comoros}} || ''Komori'' || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.kn]] || {{flag|Saint Kitts and Nevis}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.kp]] || {{flag|Democratic People's Republic of Korea}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.kr]] || {{flag|Republic of Korea}} || &nbsp; || &nbsp; || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.kw]] || {{flag|Kuwait}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.ky]] || {{flag|Cayman Islands}} || &nbsp; || Restricted to qualified Cayman entities<ref>[http://www.icta.ky/da_ky_dom_pol.php ICTA: ky Domain Policies]</ref> || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.kz]] || {{flag|Kazakhstan}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.la]] || {{flag|Laos}} || &nbsp; || Currently being marketed as the unofficial domain for [[Los Angeles]]<ref>[http://www.la/ The Official .LA Registry]</ref> || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.lb]] || {{flag|Lebanon}} || &nbsp; || Restricted to registration with a company in [[Lebanon]] || &nbsp; || {{yes}} || {{no}}
+|- valign="top"
+| [[.lc]] || {{flag|Saint Lucia}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.li]] || {{flag|Liechtenstein}} || &nbsp; || &nbsp; || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.lk]] || {{flag|Sri Lanka}} || &nbsp; || &nbsp; ||&nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.lr]] || {{flag|Liberia}} || &nbsp; || &nbsp; || &nbsp; || {{partial}}<ref name="dnssec"/> || {{no}}
+|- valign="top"
+| [[.ls]] || {{flag|Lesotho}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.lt]] || {{flag|Lithuania}} || &nbsp; || &nbsp; || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.lu]] || {{flag|Luxembourg}} || &nbsp; || &nbsp; || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.lv]] || {{flag|Latvia}} || &nbsp; || &nbsp; || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ly]] || {{flag|Libya}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ma]] || {{flag|Morocco}} || ''Maroc'' || &nbsp; || &nbsp; || {{partial}}<ref name="dnssec">Delegation Signer (DS) record in a root zone is not yet published.</ref> || {{yes}}
+|- valign="top"
+| [[.mc]] || {{flag|Monaco}} || &nbsp; || Only for companies with a trademark registered in Monaco || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.md]] || {{flag|Moldova}} || &nbsp; || Marketed for Medical use (Doctors) || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.me]] || {{flag|Montenegro}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.mg]] || {{flag|Madagascar}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mh]] || {{flag|Marshall Islands}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || &nbsp;
+|- valign="top"
+| [[.mk]] || {{flag|Macedonia}} || ''Makedonija'' || Restricted to registration with a company in [[Republic of Macedonia|Macedonia]] || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ml]] || {{flag|Mali}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mm]] || {{flag|Myanmar}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{no}}
+|- valign="top"
+| [[.mn]] || {{flag|Mongolia}} || &nbsp; || Some second-level domains are reserved for special use [[.mn]]{{Clarify|date=May 2010}} || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.mo]] || {{flag|Macau}} || ''Macao'' || [[Special Administrative Region of the People's Republic of China|Special administrative region]] of the [[People's Republic of China]]. Registrants must have a registered business in Macau, with the same name as the domain they wish to register.<ref>http://www.quora.com/How-can-I-get-a-mo-domain-if-Im-not-in-Macau</ref> || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mp]] || {{flag|Northern Mariana Islands}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mq]] || {{flag|Martinique}} || &nbsp; || || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.mr]] || {{flag|Mauritania}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ms]] || {{flag|Montserrat}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mt]] || {{flag|Malta}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.mu]] || {{flag|Mauritius}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mv]] || {{flag|Maldives}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mw]] || {{flag|Malawi}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.mx]] || {{flag|Mexico}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.my]] || {{flag|Malaysia}} || &nbsp; || Restricted to registration by an individual or company in [[Malaysia]] || {{yes}}<ref group=a>[http://domainregistry.my/en/news.php?id=121 .my Domain Registry]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.mz]] || {{flag|Mozambique}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.na]] || {{flag|Namibia}} || &nbsp; || &nbsp; || &nbsp;  || {{yes}} || {{yes}}
+|- valign="top"
+| [[.nc]] || {{flag|New Caledonia}} ||&nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ne]] || {{flag|Niger}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.nf]] || {{flag|Norfolk Island}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ng]] || {{flag|Nigeria}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ni]] || {{flag|Nicaragua}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.nl]] || {{flag|Netherlands}} || &nbsp; || First official country code TLD.<ref>{{nl}} [http://www.sidn.nl/nieuws/nieuwsbericht/article/sidn-registreert-3000000ste-nl-domeinnaam/ SIDN registreert 3.000.000ste .nl-domeinnaam] (SIDN registers 3 millionth .nl domain name), [http://www.sidn.nl Official website] of SIDN</ref> || {{no}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.no]] || {{flag|Norway}} || &nbsp; || Restricted to registration by a company in [[Norway]]. Individuals in the country can only register under '''.priv.no'''. || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.np]] || {{flag|Nepal}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.nr]] || {{flag|Nauru}} || &nbsp; || Also used as a free domain service to the public as co.nr. || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.nu]] || {{flag|Niue}} || &nbsp; || Commonly used by Danish, Dutch and Swedish websites, because in those languages "nu" means "now". || {{yes}} || {{yes}} || {{yes}}
+|- valign="top"
+| [[.nz]] || {{flag|New Zealand}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>(July 26, 2010) for Māori macrons ā, ē, ī, ō and ū. See [http://www.dnc.org.nz/story/faq-domain-names-macrons-idns details]</ref> || {{yes}} || {{no}}
+|- valign="top"
+| [[.om]] || {{flag|Oman}} || &nbsp; || Registrant must have company or trademark registered in Oman as well as a local administrative contact. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.pa]] || {{flag|Panama}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.pe]] || {{flag|Peru}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>(8 December 2007): see [http://www.nic.pe/nuevas_politicas_docs.php details]</ref> || {{no}} || {{yes}}
+|- valign="top"
+| [[.pf]] || {{flag|French Polynesia}}|| ''Polynésie française''  || With [[Clipperton Island]] || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.pg]] || {{flag|Papua New Guinea}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.ph]] || {{flag|Philippines}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.pk]] || {{flag|Pakistan}} || &nbsp; || Operated by [[PKNIC]] since 1992 || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.pl]] || {{flag|Poland}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>(11 September 2003): see [http://www.dns.pl/IDN/idn_intro_eng.html details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.pm]] || {{flag|Saint-Pierre als and companies in [[European Union]], Switzerland, Norway, Iceland and Liechtenstein.<ref group="a" name="afnic">(6 December 2011) {{csp; || {{yes}}<ref group=a>(1 July 2005) for Portuguese characters</ref>  || {{yes}} || {{yes}}
+|- valign="top"
+| [[.pw]] || {{flag|Palau}} || ''Pelew'' || &nbsp; || &nbsp; || {{yes}} || {{yes}}
+|- valign="top"
+| [[.py]] || {{flag|Paraguay}} || &nbsp; || &nbsp; || &nflag|Rwanda}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.sa]] || {{flag|Saudi Arabia}} || &nbsp; || Registrant must have a registered trademark in Saudi Anbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.se]] || {{flag|Sweden}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>(October 2003), for [[Swedish language|Swedish]] characters, summer 2007 also for [[Finnish language|Finnish]], [[Meänkieli]], [[Romani language|Romani]], [[Sami languages|Sami]], and [[Yiddish language|Yiddish]]: see [http://www.iis.se/docs/teckentabell-03.pdf details]</ref>  || {{yes}} || {{yes}}
+|- valign="top"
+| [[.sg]] || {{flag|Singapore}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.sh]] || {{flag|Saint Helena}} || &nbsp; || &nbsp; || {{yes}}<ref group=a>[http://www.nic.sh/SH-IDN-Policy.pdf IDN Code Points Policy for the .SH Top Level Domain]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.si]] || {{flag|Slovenia}} || || &nbsp; || &nbsp; {{yes}}<ref group=a>Since October 2010, see [http://www.registry.si/idn.html details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.sj]] || {{flag|Svalbard}} and <br>{{flag|Jan Mayen}} Islands || &nbsp; || Not in use (Norwegian dependencies; see [[.no]]). || {{no}} || {{no}} || {{no}}
+|- valign="top"
+| [[.sk]] || {{flag|Slovakia}} || || Restricted to Slovak companies, organisations and citizens || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.sl]] || {{flag|Sierra Leone}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.sm]] || {{flag|San Marino}} || &nbsp; || Domain name must be same as company name or trademark || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.sn]] || {{flag|Senegal}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.so (domain name)|.so]] || {{flag|Somalia}} || &nbsp; || Relaunched on November 1<sup>st</sup>, 2010 || {{no}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.sr]] || {{flag|Suriname}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.ss]] || {{flag|South Sudan}} || &nbsp; || Removed from the root DNS zone in April 2013 || &nbsp; || {{no}} ||
+|- valign="top"
+| [[.st]] || {{flag|São Tomé and Príncipe}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.su]] || {{flag|Soviet Union}} || &nbsp; || Still in use. || {{yes}}<ref group=a>({{As of|2008|alt=28 April 2008}}) see [http://www.fid.su/english/?newsid=1207819620 details]</ref> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.sv]] || {{flag|El Salvador}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.sx]] || {{flag|Sint Maarten}} || &nbsp; || &nbsp; || &nbsp; || {{yes}} || {{no}}
+|- valign="top"
+| [[.sy]] || {{flag|Syria}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.sz]] || {{flag|Swaziland}} || &nbsp; || Registration is restricted to Swaziland organizations with Swaziland Trading Licenses. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.tc]] || {{flag|Turks and Caicos Islands}} || &nbsp; || .TC domains are also marketed in Turkey. The official abbreviation of 'Türkiye Cumhuriyeti' is TC.    || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.td]] || {{flag|Chad}} || ''Tchad'' || Chadian (.td) domains are available for registration to entities connected with Chad only. || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.tf]] || {{flag|French Southern and Antarctic Lands}} || ''Terres australes et antarctiques françaises'' || Seldom used. Restricted to individuals and companies in [[European Union]], Switzerland, Norway, Iceland and Liechtenstein.<ref group="a" name="afnic" /> || {{yes}}<ref group=a name="afnic-idn" /> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.tg]] || {{flag|Togo}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.th]] || {{flag|Thailand}} || &nbsp; || &nbsp; || {{yes}} || {{yes}} || {{no}}
+|- valign="top"
+| [[.tj]] || {{flag|Tajikistan}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.tk]] || {{flag|Tokelau}} || &nbsp; || Also used as a free domain service to the public. Used in the Netherlands because tk ('te koop') means 'for sale' in Dutch.|| &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.tl]] || {{flag|East Timor}} || ''Timor-Leste'' || Old code [[.tp]] is stilllweb.archive.org/web/20070123180350/http://www.vnnic.net.vn/tenmientv/bangma.htm TRUNG TÂM INTERNET VIÊT NAM - Tên mien tieng viet]</ref> || {{no}} || {{yes}}
+|- valign="top"
+| [[.vu]] || {{flag|Vanuatu}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{yes}}
+|- valign="top"
+| [[.wf]] || {{flag|Wallis and Futuna}} || &nbsp; || Restricted to individuals and companies in [[European Union]], Switzerland, Norway, Iceland and Liechtenstein.<ref group="a" name="afnic" /> || {{yes}}<ref group=a name="afnic-idn" /> || {{yes}} || {{yes}}
+|- valign="top"
+| [[.ws]] || {{flag|Samoa}} || Formerly Western Samoa || Marketed to be used in general WebSites || {{yes}} || {{no}} || {{yes}}
+|- valign="top"
+| [[.ye]] || {{flag|Yemen}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.yt]] || {{flag|Mayotte}} || &nbsp; || Restricted to individuals and companies in [[European Union]], Switzerland, Norway, Iceland and Liechtenstein.<ref group="a" name="afnic" /> || {{yes}}<ref group=a name="afnic-idn" /> || {{yes}}<ref group=a name=tf.yt.DNSsec>(11 September 2010) .tf DNSsec <br>(17 September 2010) .yt DNSsec <br>See {{cite web|title=.tf and .yt DNSsec keys published in DNS root|url=http://www.afnic.fr/en/about-afnic/news/operations-news/3995/showOperational/tf-and-yt-dnssec-keys-published-in-dns-root.html}}</ref> || {{yes}}
+|- valign="top"
+| [[.yu]] || {{flag|Yugoslavia|name=SFR Yugoslavia}} <br>{{flag|Serbia and Montenegro|name=FR Yugoslavia}} || &nbsp; || After dissolution of Yugoslavia used for Serbia and Montenegro. Not used after 2010. || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.za]] || {{flag|South Africa}} || ''Zuid-Afrika'' || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.zm]] || {{flag|Zambia}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+| [[.zw]] || {{flag|Zimbabwe}} || &nbsp; || &nbsp; || &nbsp; || {{no}} || {{no}}
+|- valign="top"
+|}
+
